@@ -19,3 +19,5 @@ vendor/
 
 # Coverage files
 *.out
+
+.env

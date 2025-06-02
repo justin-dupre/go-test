@@ -1,0 +1,21 @@
+# Binaries
+*.exe
+*.out
+*.test
+
+# Dependency directories
+vendor/
+
+# Cache entries
+*.test
+.cache/
+
+# OS/Editor files
+.DS_Store
+*.swp
+
+# Log files
+*.log
+
+# Coverage files
+*.out
